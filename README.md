@@ -1,7 +1,10 @@
 # Nyan-Cat-Game
 Play as Cheeseburger to evade the hungry falling Nyan Cat 
 
-Run project
- `npm install`
+To Run project
+
+`git clone` this repository
+
+`npm install`
  
- then open index.html in your browser
+then open index.html in your browser
